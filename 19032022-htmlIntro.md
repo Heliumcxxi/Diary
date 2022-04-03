@@ -65,5 +65,24 @@ Notes:
 3. Closing tag matters
     Missing one closing tag can lead to serious unexpected result.
 
+<!-- ============================ HTML5 new tags ============================= -->
 
+<section> 
 
+<article> 
+
+<header> 
+
+<footer> 
+
+<nav> navigation bar
+
+<aside> sidebar of the article / web page
+
+<figure> specifies self-contained content, like illustrations, diagrams, photos, code listings, etc. usually use with <figcaption>
+
+<mark>  markings, uncommon use
+
+<progress> showing progress, uncommon use
+
+<time> 
